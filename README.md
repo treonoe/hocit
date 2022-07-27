@@ -1,2 +1,1 @@
-# hocit
-tui hoc lap trinh
+day la bo tool tui lam auto gleam
